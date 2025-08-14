@@ -1,4 +1,9 @@
-# 👩🏻‍💻📓✍🏻💡 Now, what I am doing:
+# 🙋‍♂️About me:
+👋 Hi, I am Ayberk Özcan.
+💻 I am currently Sophomore Computer Engineering student at Koç University.<br>
+
+
+# 👨🏻‍💻📓✍🏻💡 Now, what I am doing:
 I'm currently learning fullstack development including Javascript, HTML, CSS, React.js, C#, .Net and SQL.<br>I have had experiences on Python, Java, and C programming languages.<br>
 
 
