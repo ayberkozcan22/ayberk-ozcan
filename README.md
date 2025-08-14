@@ -5,7 +5,7 @@
 
 
 # 👨🏻‍💻📓✍🏻💡 Now, what I am doing:
-I'm currently learning fullstack development including Javascript, HTML, CSS, React.js, C#, .Net and SQL.<br>I have had experiences on Python, Java, and C programming languages.<br>
+I'm currently learning fullstack development including Javascript, HTML, CSS, React.js, C#, .Net and SQL tech skills.<br>I have had experiences on Python, Java, and C programming languages.<br>
 
 
 ## 🌐 My Socials:
