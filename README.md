@@ -1,6 +1,7 @@
 # 🙋‍♂️About me:
-👋 Hi, I am Ayberk Özcan.
+👋 Hi, I am Ayberk Özcan.<br>
 💻 I am currently Sophomore Computer Engineering student at Koç University.<br>
+✉️ You can reach me from: ayberk.09ozcan@gmail.com<br>
 
 
 # 👨🏻‍💻📓✍🏻💡 Now, what I am doing:
